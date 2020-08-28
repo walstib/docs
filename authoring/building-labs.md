@@ -167,7 +167,7 @@ Again, you have multiple options.  Provide us with lab guides in most formats an
 17. Ensure that all virtual machines are set to a uniform time zone and are synchronised with each other.
 18. Ensure that all software used on your virtual machine is properly licensed.
 19. Disable the Windows Updates service and then set the Startup Type to Disabled.  
-20. For Windows 10 machines, open `gpedit.msc` and navigate to **Computer Configuration &gt; Administrative Templates &gt; Windows Components &gt; Windows Updates &gt; Do not connect to any Windows Update Internet Locations.**  Set this to **Enabled**.  Failure to do this will result in the Windows 10 machine enabling the Windows Update service and having a significant impact on the performance. \(You may also want to do the same with the Windows Medic Service to enforce the disabling of the Windows Update service\)
+20. For Windows 10 machines, open `gpedit.msc` and navigate to **Computer Configuration &gt; Administrative Templates &gt; Windows Components &gt; Windows Updates &gt; Do not connect to any Windows Update Internet Locations.**  Set this to **Enabled**.  Failure to do this will result in the Windows 10 machine enabling the Windows Update service and having a significant impact on the performance. 
 
 ### Domain Controllers <a id="configure-a-virtual-machine-that-is-a-domain-controller"></a>
 
