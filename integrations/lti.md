@@ -36,7 +36,7 @@ These additional fields are required to start a lab with go deploy:
 1. `oauth_consumer_key` - A GUID string that identifies your system as a client
 2. `lis_person_contact_email_primary` - The email address of the student
 3. `user_id` - The ID of the student user in your system
-4. `resource_link_id` - The GUID ID for the module the student wishes to launch
+4. `custom_module_id` - The GUID ID for the module the student wishes to launch
 5. `lis_person_name_given` - The forename of the student
 6. `lis_person_name_family` - The surname of the student
 7. `oauth_signature` - The signature generated in the previous section
@@ -53,7 +53,7 @@ Build the form as follows, populating it with the required values:
     <input type="hidden" name="oauth_consumer_key" value="00000000-0000-0000-0000-000000000000">
     <input type="hidden" name="lis_person_contact_email_primary" value="student@example.com">
     <input type="hidden" name="user_id" value="123456">
-    <input type="hidden" name="resource_link_id" value="00000000-0000-0000-0000-000000000000">
+    <input type="hidden" name="custom_module_id" value="00000000-0000-0000-0000-000000000000">
     <input type="hidden" name="lis_person_name_given" value="Student">
     <input type="hidden" name="lis_person_name_family" value="Smith">
     <input type="hidden" name="oauth_signature" value="w6l76xQgCYwlBrJYQmxNgg1fg34=">
@@ -71,7 +71,7 @@ Build the form as follows, populating it with the required values:
 | :--- | :--- | :--- |
 | oauth\_consumer\_key | GUID | The LTI Client ID provided by go deploy |
 | user\_id | String \(200 characters\) | ID of the student's user in your system |
-| resource\_link\_id | GUID | Module ID that the client wishes to launch |
+| custom\_module\_id | GUID | Module ID that the client wishes to launch |
 | lis\_person\_contact\_email\_primary | String \(256 Characters\) | Email address of the student |
 | lis\_person\_name\_given | String \(80 Characters\) | Student's forename |
 | lis\_person\_name\_family | String \(80 Characters\) | Student's surname |
