@@ -6,7 +6,7 @@ go deploy is launching its new consumer platform in 2021. go deploy – Learn wi
 
 ### **What vendors/technologies will we cover?**
 
-There are a plethora of technologies we wish to cover. We are targeting the following subjects, however, this list is not exhaustive. All subjects will be considered.
+There is a plethora of technologies we wish to cover. We are targeting the following subjects, however, this list is not exhaustive. All subjects will be considered.
 
 * Linux
 * Cyber Security
