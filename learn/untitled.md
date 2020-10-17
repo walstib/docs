@@ -1,6 +1,6 @@
 # Call for content authors
 
-Many trainers and industry experts are creating high-quality content such as blogs, articles and videos that are shared with communities throughout the world. If you have technical skills and are passionate about teaching we are interested in talking to you.
+Many trainers and industry experts are creating high-quality content such as blogs, articles and videos that are shared with communities throughout the world. If you have technical skills and are passionate about teaching then we are interested in talking to you.
 
 go deploy is launching its new consumer platform in 2021. go deploy – Learn will be a world leading, best in class, technology content repository. The platform will be a self-paced technology skilling destination, bringing together multiple vendor technologies whilst still focusing on essential on-premises skills and hybrid environments and cyber security. We aim to have best in class, energizing content based on real world scenarios to ensure transferable skills into the workplace.
 
@@ -122,6 +122,8 @@ Many of you will have already come across the concept of learning paths. These c
 * Assessments \(graded and based on performance based testing\)
 * Exams \(graded and based on theory and/or an assessment\)
 * Once a user has completed a learning path they may earn a badge which can be shared on social media.
+
+You do not necessarily need to create a learning path.  You may just wish to create a lesson or a hands on lab.
 
 ### **How do I submit a proposal for content?**
 
