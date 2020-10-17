@@ -55,5 +55,5 @@
   * [AWS](crs/aws.md)
   * [GCP](crs/gcp.md)
 * [Learn](learn/README.md)
-  * [Untitled](learn/untitled.md)
+  * [Call for content authors](learn/untitled.md)
 
