@@ -1,6 +1,7 @@
 # Call for content authors
 
-Many trainers and industry experts are creating high-quality content such as blogs, articles and videos that are shared with communities throughout the world.  If you have technical skills and are passionate about teaching we are interested in talking to you.
+
+Many trainers and industry experts are creating high-quality content such as blogs, articles and videos that are shared with communities throughout the world.  If you have technical skills and are passionate about teaching we are interested in talking to you.
 
 go deploy is launching its new consumer platform in 2021.  go deploy – Learn will be a world leading, best in class, technology content repository.  The platform will be a self-paced technology skilling destination, bringing together multiple vendor technologies whilst still focusing on essential on-premises skills and hybrid environments and cyber security.   We aim to have best in class, energizing content based on real world scenarios to ensure transferable skills into the workplace.
 
@@ -8,175 +9,91 @@ go deploy is launching its new consumer platform in 2021.  go deploy – Learn w
 
 There are a plethora of technologies we wish to cover.  We are targeting the following subjects, however, this list is not exhaustive.  All subjects will be considered.
 
-·         Linux
-
-·         Cyber Security
-
-·         Microsoft
-
-o   Azure
-
-§  Overviews
-
-§  IaaS
-
-§  PaaS
-
-§  Networking
-
-§  DevOps
-
-§  Security
-
-§  Data Platform
-
-§  AI
-
-§  Infrastructure / Administration
-
-§  Architecture
-
-§  Development
-
-§  Containers
-
-§  Serverless
-
-§  Hadoop
-
-§  Mongo
-
-§  Cassandra
-
-§  HD Insight
-
-§  Machine Learning
-
-§  Big Data
-
-§  Migrations
-
-§  Hybrid
-
-§  Templates \(ARM\)
-
-o   365
-
-o   Server 2016/2019
-
-o   Active Directory
-
-o   Hybrid Scenarios
-
-o   Windows 10
-
-o   Security
-
-o   PowerShell
-
-o   System Center
-
-o   Hyper-V / Azure Stack HCI
-
-o   Clustering
-
-o   DevOps
-
-o   Development / Programming
-
-·         Amazon Web Services
-
-o   Overviews
-
-o   IaaS
-
-o   PaaS
-
-o   Networking
-
-o   DevOps
-
-o   Security
-
-o   Data Platform
-
-o   AI
-
-o   Infrastructure / Administration
-
-o   Architecture
-
-o   Development
-
-o   Containers
-
-o   Serverless
-
-o   Machine Learning
-
-o   Big Data
-
-o   Migrations
-
-o   Hybrid
-
-o   Templates \(JSON/YAML\)
-
-·         Google Cloud Platform
-
-o   Overviews
-
-o   IaaS
-
-o   PaaS
-
-o   Networking
-
-o   DevOps
-
-o   Security
-
-o   Data Platform
-
-o   AI
-
-o   Infrastructure / Administration
-
-o   Architecture
-
-o   Development
-
-o   Containers
-
-o   Serverless
-
-o   Machine Learning
-
-o   Big Data
-
-o   Migrations
-
-o   Hybrid
-
-o   Templates \(JSON/YAML\)
-
-·         Programming
-
-o   Python
-
-o   C
-
-o   C\#
-
-o   Java
-
-o   HTML
-
-o   Angular
-
-o   React
-
-·         VMware \(Q2 2021\)
+    - Linux
+    - Cyber Security
+    - Microsoft
+        - Azure
+            -Overviews
+            - IaaS
+            - PaaS
+            - Networking
+            - DevOps
+            - Security
+            - Data Platform
+            - AI
+            - Infrastructure / Administration
+            - Architecture
+            - Development
+            - Containers
+            - Serverless
+            - Hadoop
+            - Mongo
+            - Cassandra
+            - HD Insight
+            - Machine Learning
+            - Big Data
+            - Migrations
+            - Hybrid
+            - Templates \(ARM\)
+        - 365
+        - Server 2016/2019
+        - Active Directory
+        - Hybrid Scenarios
+        - Windows 10
+        - Security
+        - PowerShell
+        - System Center
+        - Hyper-V / Azure Stack HCI
+        - Clustering
+        - DevOps
+        - Development / Programming
+    - Amazon Web Services
+        - Overviews
+        - IaaS
+        - PaaS
+        - Networking
+        - DevOps
+        - Security
+        - Data Platform
+        - AI
+        - Infrastructure / Administration
+        - Architecture
+        - Development
+        - Containers
+        - Serverless
+        - Machine Learning
+        - Big Data
+        - Migrations
+        - Hybrid
+        - Templates \(JSON/YAML\)
+    - Google Cloud Platform
+        - Overviews
+        - IaaS
+        - PaaS
+        - Networking
+        - DevOps
+        - Security
+        - Data Platform
+        - AI
+        - Infrastructure / Administration
+        - Architecture
+        - Development
+        - Containers
+        - Serverless
+        - Machine Learning
+        - Big Data
+        - Migrations
+        - Hybrid
+        - Templates \(JSON/YAML\)
+    - Programming
+        - Python
+        - C
+        - C\#
+        - Java
+        - HTML
+        - Angular
+        - React
+    - VMware \(Q2 2021\)
 
 **What content can you get involved with?**
 
