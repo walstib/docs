@@ -56,4 +56,7 @@
   * [GCP](crs/gcp.md)
 * [Learn](learn/README.md)
   * [Call for content authors](learn/untitled.md)
+  * [Authoring Learn Content](learn/authoring-learn-content/README.md)
+    * [Untitled](learn/authoring-learn-content/untitled/README.md)
+      * [Labs](learn/authoring-learn-content/untitled/labs.md)
 
