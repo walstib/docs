@@ -57,6 +57,7 @@
 * [Learn](learn/README.md)
   * [Call for content authors](learn/untitled.md)
   * [Authoring Learn Content](learn/authoring-learn-content/README.md)
-    * [Untitled](learn/authoring-learn-content/untitled/README.md)
-      * [Labs](learn/authoring-learn-content/untitled/labs.md)
+    * [Authoring Labs](learn/authoring-learn-content/labs.md)
+    * [Authoring Lessons](learn/authoring-learn-content/untitled/README.md)
+      * [Authoring Lessons - Top Tips](learn/authoring-learn-content/untitled/authoring-lessons-top-tips.md)
 
