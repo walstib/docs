@@ -6,7 +6,7 @@ description: Information for Dynamics 365 courses
 
 ## WWL Tenant Solution - October 2020
 
-When, as an MCT, you launch a lab for the courses listed below, the class lab key must be added to your class in order to get access to the "Admin" user for the tenant provided for all students in that class.
+When, as an MCT, you launch a lab for any of the courses listed below, the class lab key must be added to your class in order to get access to the "Admin" user for the tenant provided for all students in that class.
 
 {% hint style="danger" %}
 **Note**: You are not redeeming the key, but instead simply aligning the key to your class.
