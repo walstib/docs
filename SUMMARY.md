@@ -54,7 +54,7 @@
       * [Azure Cloud Shell in Cloud Share](crs/azure/troubleshooting/azure-cloud-shell-in-cloud-share.md)
   * [AWS](crs/aws.md)
   * [GCP](crs/gcp.md)
-* [Learn](learn/README.md)
+* [Learning Zone](learn/README.md)
   * [Call for content authors](learn/untitled.md)
   * [Authoring Learn Content](learn/authoring-learn-content/README.md)
     * [Authoring Labs](learn/authoring-learn-content/labs.md)
