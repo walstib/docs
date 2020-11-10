@@ -2,7 +2,7 @@
 
 Many trainers and industry experts are creating high-quality content such as blogs, articles and videos that are shared with communities throughout the world. If you have technical skills and are passionate about teaching then we are interested in talking to you.
 
-go deploy is launching its new consumer platform in 2021. go deploy – Learn will be a world leading, best in class, technology content repository. The platform will be a self-paced technology skilling destination, bringing together multiple vendor technologies whilst still focusing on essential on-premises skills and hybrid environments and cyber security. We aim to have best in class, energizing content based on real world scenarios to ensure transferable skills into the workplace.
+go deploy is launching its new consumer platform in 2021. go deploy – Learn will be a world leading, best in class, technology content repository. The platform will be a self-paced technology skilling destination, bringing together multiple vendor technologies whilst still focusing on essential on-premises skills, hybrid environments and cyber security. We aim to have best in class, energizing content, based on real world scenarios to ensure transferable skills into the workplace.
 
 ### **What vendors/technologies will we cover?**
 
@@ -13,7 +13,7 @@ There is a plethora of technologies we wish to cover. We are targeting the follo
 * Microsoft
   * Azure
 
-      -Overviews
+      - Overviews
 
     * IaaS
     * PaaS
@@ -136,4 +136,8 @@ That’s simple. Just complete this form: [https://aka.gd/learnsubmission](https
 ### **How much will I get paid?**
 
 This depends on the level and complexity of your submission. A full breakdown and pricing matrix will be made available once your submission has been approved.
+
+### Refer an author scheme
+
+If you refer someone to go deploy and they become an author, you will receive a referral bonus.
 

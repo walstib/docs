@@ -4,6 +4,62 @@ description: Information for Dynamics 365 courses
 
 # Dynamics 365
 
+## WWL Tenant Solution - October 2020
+
+When, as an MCT, you launch a lab for the courses listed below, the class lab key must be added to your class in order to get access to the "Admin" user for the tenant provided for all students in that class.
+
+{% hint style="danger" %}
+**Note**: You are not redeeming the key, but instead simply aligning the key to your class.
+{% endhint %}
+
+MB-210   
+MB-220  
+MB-230   
+MB-240  
+MB-901  
+  
+Once logged into the LMS, click on the Instructor Home icon in the top right hand corner.
+
+![](../.gitbook/assets/image%20%2832%29.png)
+
+If this is the first time you have used the Instructor area then you will see the following screen:
+
+![](../.gitbook/assets/image%20%283%29.png)
+
+This is where you need to create a class. Click **Add One**. \(If you already used the instructor area before click **+ Create**\)
+
+Enter the access key for your class.
+
+{% hint style="warning" %}
+**Note:** You are not redeeming the key here, you are associating the key with your instructor area.
+{% endhint %}
+
+Select the date the class/course will start.  
+Enter any notes you may feel useful in the future then click the confirm check box and click **Create Class**.
+
+![](../.gitbook/assets/image%20%28123%29.png)
+
+Your live classes will now be presented to you. Click **Start**.
+
+You will see a tenant will be assigned to you:
+
+![](../.gitbook/assets/image%20%28122%29.png)
+
+Return back to the LMS.[  
+](../usinglabs/shadowing-users.md)  
+Launch the lab you are teaching.  Once the lab has launched, locate the class key provided by the learning partner and enter it in the lookup box and lick **Lookup**
+
+![](../.gitbook/assets/image%20%28121%29.png)
+
+You will now be able to see the admin credentials for the tenant.
+
+If you receive the following error then you have not created a class correctly in the Instructor area:
+
+![](../.gitbook/assets/image%20%28124%29.png)
+
+  
+_Due to this new solution, we are unable to provide 180 day access for the labs listed above._
+
 ## Subscription / Tenant issues
 
 If there are any issues with Dynamics Tenants, this workaround should be used.
@@ -100,12 +156,14 @@ These lab environments are wholly self-contained Windows machines, which contain
 
 ### Lifecycle Services Labs
 
-Issue: There is as yet no solution for the Lifecycle Services labs.
+**Update: LCS exercises have now been removed from Dynamics Labs.**
 
-These are:
+~~Issue: There is as yet no solution for the Lifecycle Services labs.~~
 
-* MB-300T01 Module 2
-* MB-300T03 Module 3
+~~These are:~~
 
-A support plan may be needed for the LCS labs. “You cannot sign into Microsoft Dynamics Lifecycle Services because your account does not have the required associated CustomerSource or PartnerSource support plans. Microsoft Accounts \(MSA\) \(such as Live or Hotmail\) are not allowed to use Microsoft Dynamics Lifecycle Service without a support plan. For more information, please refer to this [announcement](https://cloudblogs.microsoft.com/dynamics365/it/2018/03/14/upcoming-change-april-15-2018-only-azure-active-directory-users-will-be-allowed-to-create-prospective-presales-projects-in-lcs/?source=lcs).”
+* ~~MB-300T01 Module 2~~
+* ~~MB-300T03 Module 3~~
+
+~~A support plan may be needed for the LCS labs. “You cannot sign into Microsoft Dynamics Lifecycle Services because your account does not have the required associated CustomerSource or PartnerSource support plans. Microsoft Accounts \(MSA\) \(such as Live or Hotmail\) are not allowed to use Microsoft Dynamics Lifecycle Service without a support plan. For more information, please refer to this~~ [~~announcement~~](https://cloudblogs.microsoft.com/dynamics365/it/2018/03/14/upcoming-change-april-15-2018-only-azure-active-directory-users-will-be-allowed-to-create-prospective-presales-projects-in-lcs/?source=lcs)~~.”~~
 

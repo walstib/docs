@@ -2,37 +2,25 @@
 
 ### **Labs**
 
-Labs should a
+All labs should follow a standard format when being written.  This is to give users a consistent experience regardless of vendor or subject.
 
-Title
+All courses should have the following
 
-Scenario
+A Title - _This should outline exactly what the lab is about_
 
-Objectives
+Scenario - _The scenario should set the scene for the lab and exercises_
 
-Exercises
+Objectives - _Objectives state what the user will learn_ 
 
-Tasks
+Exercises - _Labs should be broken down into exercises which lead on from one another._
 
-Conclusion
+Tasks - _Multiple tasks are grouped together to form exercises_
 
-Learning Paths
+Conclusion - _At the end of each exercise and at the end of the lab you should conclude._
 
-**Some examples**
 
-A learning path
-
-A lesson
-
-A Lab
-
-A Quiz / Exam
 
 The fastest and easiest way to send us your submission. Please fill in and upload all relevant information in the form below. You will receive an email notification once your submission is received by our editorial team.
 
-Before you submit details of your manuscript to Olympia it is necessary to firstly read and agree to the following Terms and Conditions:
 
-The material you have submitted is the Author’s own creative and/or well researched work.
-
-At all times the right of the Author to the intellectual copyright of his, her or their work, will be maintained.
 
