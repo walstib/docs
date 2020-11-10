@@ -47,7 +47,7 @@ You will see a tenant will be assigned to you:
 
 Return back to the LMS.[  
 ](../usinglabs/shadowing-users.md)  
-Launch the lab you are teaching.  Once the lab has launched, locate the class key provided by the learning partner and enter it in the lookup box and lick **Lookup**
+Launch the lab you are teaching.  Once the lab has launched, locate the class key provided by the learning partner and enter it in the lookup box and click **Lookup**
 
 ![](../.gitbook/assets/image%20%28121%29.png)
 
