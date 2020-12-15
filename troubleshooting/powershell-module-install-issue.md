@@ -2,8 +2,9 @@
 
 **This is a fast release article.**
 
-When install PowerShell modules you may receive an error similar to the below:  
-  
+When installing PowerShell modules you may receive an error similar to the below:  
+
+  
 `PackageManagement\Install-PackageProvider : No match was found for the specified search criteria for the provider  
  'NuGet'. The package provider requires 'PackageManagement' and 'Provider' tags. Please check if the specified package  
  has the tags.  
